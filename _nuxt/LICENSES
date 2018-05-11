@@ -39,14 +39,14 @@
  **/
 
 /*!
-* vue-headroom v0.8.0
-* git+https://github.com/dalphyx/vue-headroom.git
-*
-* Copyright (c) 2017 dalphyx
-* Released under the MIT license
-*
-* Date: 2017-11-29T08:28:59.673Z
-*/
+     * classie - class helper functions
+     * from bonzo https://github.com/ded/bonzo
+     * 
+     * classie.has( elem, 'my-class' ) -> true/false
+     * classie.add( elem, 'my-new-class' )
+     * classie.remove( elem, 'my-unwanted-class' )
+     * classie.toggle( elem, 'my-class' )
+     */
 
 /*!
  * VERSION: 1.20.4
@@ -85,6 +85,16 @@
  * 
  * @author: Jack Doyle, jack@greensock.com
  **/
+
+/*!
+* vue-headroom v0.8.0
+* git+https://github.com/dalphyx/vue-headroom.git
+*
+* Copyright (c) 2017 dalphyx
+* Released under the MIT license
+*
+* Date: 2017-11-29T08:28:59.673Z
+*/
 
 /*!
  * VERSION: 1.20.4
