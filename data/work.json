@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Lick",
+    "description": "From an ice-cream trike to supermarket shelves.",
+    "image_url": "/images/case-studies/lick.jpg",
+    "detail_link": "/work/lick",
+    "category": "design-branding marketing social-media content-strategy",
+    "id": 1
+  },
+  {
+    "name": "Brother",
+    "description": "A rebuild for Snapchat\"s biggest millennial magazine",
+    "image_url": "../images/case-studies/brother.jpg",
+    "detail_link": "/work/brother",
+    "category": "design-branding development",
+    "id": 2
+  },
+  {
+    "name": "Human Food",
+    "description": "A successful Kickstarter campaign and cutting edge website build",
+    "image_url": "../images/case-studies/humanfood.jpg",
+    "detail_link": "/work/human-food",
+    "category": "marketing development social-media",
+    "id": 3
+  },
+  {
+    "name": "Sharp Precision Wheels",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/sharp.jpg",
+    "detail_link": "#",
+    "category": "development design-branding",
+    "id": 4
+  },
+  {
+    "name": "Prime Minister of Norway",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/hlp.jpg",
+    "detail_link": "#",
+    "category": "development content-strategy",
+    "id": 6
+  },
+  {
+    "name": "Rialto",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/rialto.jpg",
+    "detail_link": "#",
+    "category": "development content-strategy",
+    "id": 7
+  }, 
+  {
+    "name": "Blue Juice",
+    "description": "A brochure site that showcases high quality content on every page.",
+    "image_url": "../images/case-studies/bluejuice.jpg",
+    "detail_link": "/work/blue-juice",
+    "category": "design-branding development",
+    "id": 8
+  },
+  {
+    "name": "FastNet",
+    "description": "Full marketing assistance for Brighton\"s biggest Internet Service Provider.",
+    "image_url": "../images/case-studies/fastnet.jpg",
+    "detail_link": "/work/fastnet",
+    "category": "development design-branding social-media marketing content-strategy",
+    "id": 9
+  },
+  {
+    "name": "Vertical Networks",
+    "description": "A confident, functional new website for the World\"s biggest Snapchat content provider.",
+    "image_url": "/images/case-studies/verticalnetworks.jpg",
+    "detail_link": "/work/vertical-networks",
+    "category": "design-branding development",
+    "id": 10
+  },
+  {
+    "name": "Buildshield",
+    "description": "A bespoke Laravel build for a problem solving startup.",
+    "image_url": "../images/case-studies/buildshield.jpg",
+    "detail_link": "/work/buildshield",
+    "category": "development design-branding",
+    "id": 11
+  },
+  {
+    "name": "Emerson College",
+    "description": "From idea to subscription software",
+    "image_url": "../images/case-studies/emerson.jpg",
+    "detail_link": "/work/emerson",
+    "category": "development design-branding marketing content-strategy",
+    "id": 12
+  },
+  {
+    "name": "59 Degrees",
+    "description": "Website and packaging copy for an environmentally minded startup.",
+    "image_url": "../images/case-studies/59-degrees.jpg",
+    "detail_link": "/work/59-degrees",
+    "category": "marketing",
+    "id": 13
+  },
+  {
+    "name": "Create Pembrokeshire",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/createpembrokeshire.gif",
+    "detail_link": "/work/create-pembrokeshire",
+    "category": "development design-branding",
+    "id": 14
+  },
+  {
+    "name": "Ellie Ellie",
+    "description": "E-commerce support for a famous Brighton brand.",
+    "image_url": "../images/case-studies/ellieellie.jpg",
+    "detail_link": "/work/ellie-ellie",
+    "category": "development",
+    "id": 15
+  },
+  {
+    "name": "The Shoreham Centre",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/shorehamcentre.jpg",
+    "detail_link": "/work/the-shoreham-centre",
+    "category": "development design-branding",
+    "id": 16
+  },
+  {
+    "name": "Shoreham Lifeboat",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/shorehamlifeboat.jpg",
+    "detail_link": "/work/shoreham-lifeboat",
+    "category": "development design-branding",
+    "id": 17
+  },
+  {
+    "name": "Sussex Travel Clinic",
+    "description": "Improved conversion and SEO consultancy",
+    "image_url": "../images/case-studies/stc.jpg",
+    "detail_link": "/work/sussex-travel-clinic",
+    "category": "development content-strategy",
+    "id": 18
+  },
+  {
+    "name": "United Nations",
+    "description": "[How we made them better]",
+    "image_url": "../images/case-studies/lick.jpg",
+    "detail_link": "/work/united-nations-treaty-tracker",
+    "category": "development content-strategy",
+    "id": 19
+  }
+]
